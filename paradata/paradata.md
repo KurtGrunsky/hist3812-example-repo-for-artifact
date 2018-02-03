@@ -1,33 +1,9 @@
 # paradata
 
-This is the document that describes what you were doing, and what you learned through the process, especially with regard to the issues raised in the Core Philosophy readings (which you'd cite, naturally).
+### Macro - The Bigger Picture
 
-More info on 'paradata', from the HeritageJam:
+In our decision to construct a 3D model of "William", the faience hippopotamus originating from Egypt, we must be clear: we are not attempting to construct this model from the "original", but rather from a replica of the statue bought in a gift shop. This will pose a number of interesting implications for consideration.
 
-Paradata Resources and Direction
+The original statue is considered to be of some historical importance. In one respect, it seems inevitable that our model will lose some of that "aura" of historical importance, since it is being scanned from an imperfect replica of the original. Thus while the model will hopefully be recognizable to those familiar with William, it will be quite distinct from the original.
 
-Among the documents used to critically inform heritage visualisation, paradata are details on the processes and methods behind the building and interpretation of our visual objects. The London Charter describes them as"documentation of the evaluative, analytical, deductive, interpretative and creative decisions made in the course of ... visualisation" to allow a clear understanding of how the visualisation came into being.
-
-Distinct from metadata (which describe the data themselves, their nature, location, and relation to other data, often employed for indexing purposes), paradata work to provide detailed contextual information about the processes of decision-making and the rationale for and derivation of the work.
-
-In visualisation, paradata provide the space through which we communicate ambiguity and transparency, and account for our practices. In explicitly detailing the creator's process, paradata enable openness, making visible the "relationship between research sources, implicit knowledge, explicit reasoning, and visualisation-based outcomes." This offers viewers an insight into the making process, and an opportunity to think critically about how our images are constructed and create meaning about the past.
-
-Macro Paradata: the big decisions relating to the nature of the visualisation.
-
-    Why has the resource being created and for what audience? _(SG says: interpret this as asking you to tie your work into the big themes, issues, from this course)_
-
-    How will the resource be put to use? Is it sustainable and accessible? _(SG says: interpret this to reflect on the technologies you've used)_
-
-    Why have you chosen to use the approach/methods applied? _(SG says intrpret this to reflect on your actual process - what worked, what didn't, given the kinds of guidance or advice you've been able to find?)_
-
-Micro Paradata: the small-scale decision-making processes underlying the construction of the visualisation.
-
-    What are the basic steps you followed in putting together the resource?
-
-    What supporting evidence did you rely upon?
-
-    How have you acknowledged uncertainty in the resource? Where might alternative interpretations have been made or where are such interpretations otherwise available for viewing audiences to refer to?
-
-References
-
-McCurdy, L. (2010). Visualising Architecture: The Experience of Creating Virtual Reconstructions. Unpublished Master's thesis, University of York, UK.
+From this inherent fracture in the trajectory, we will find ourselves faced with options as to how we are to understand and (re)present the resulting 3D model. We may decide that this model is an "inferior" representation of William, as it is not an "objective" enough depiction.
