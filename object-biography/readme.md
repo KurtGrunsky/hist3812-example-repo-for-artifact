@@ -1,5 +1,7 @@
 # Object Biography
 
-In this readme file, you explain the context and background for your object. Think of this as being rather like a wikipedia page giving the basic particulars of the object/site/building/whatever that you have modeled. It should be complete enough that I understand why your object matters, and could find more information if I want.
+The faience hippopotamus, nicknamed “William”, is an Ancient Egyptian artifact currently housed at the Metropolitan Museum of Art in New York City. The reproduction in our possession is a smaller version of it bought at the British National Museum gift shop in London. The original William is from the Middle Kingdom of Egypt. The original is in a faience style, so it is not technically pottery but is treated as such. The replica that was used for our 3D model is ceramic, or at the very least some sort of pottery piece due to hole that was left on the bottom for ventilation in the firing process. Instead of being made of coloured quartz like the original, this hippopotamus was painted. We chose this artifact to see how it compares to the official digital version of William on the Met’s website and by using it for our project we will be able to examine the relationship between authenticity and accuracy in reproductions (Precaution, 2013).
 
-Use Harvard author-date system for citations, as that works better with plain text than trying to figure out footnotes (footnotes are a hangover from an industrial model of text preparation).
+STÜNKEL, I.
+Precaution
+Precaution. (2013). [Youtube Video] Directed by I. Stünkel. New York City: The Metropolitan Museum of Art.
