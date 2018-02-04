@@ -5,3 +5,5 @@ Please include all primary and secondary sources you used for creating your mode
 Include any materials that you've used - including tutorials, blog posts, videos, whatever. If you used it, consulted it, or it caused you to think about what you were doing, cite it.
 
 use harvard author-date style.
+
+Latour, Bruno, and A. Lowe (2011). The Migration of the Aura - or How to Explore the Original Through Its Facsimiles. In: T. Bartscherer and R. Coover, ed., *Switching Codes. Thinking Through Digital Technology in the Humanities and the Arts*, University of Chicago Press, pp. 275-297.
