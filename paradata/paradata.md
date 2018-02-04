@@ -18,4 +18,4 @@ In our scanning process, we attempted to create multiple models of William using
 
 We ultimately decided to choose the model that we felt best represented William "objectively". This is partially because are not yet sure which direction we will take our model in yet, therefore it is best to go with the version that could make for the closest comparison to the Metropolitan Museum's model in the case that we decide to do this. The particular model was also chosen for its coherence because it will be easier to distort it or otherwise modify it from this original format if we decide to attempt this later on.
 
-As previously mentioned, alternative scans and 3D models of William do exist and a future part of the project may be seeking out and comparing a number of these differeng models.
+As previously mentioned, alternative scans and 3D models of William do exist and a future part of the project may be seeking out and comparing a number of these differeng models. Neither of our group's members have any previous experience in photogrammetry, scanning or 3D modelling and we have only very limited experience in programming.
