@@ -1,5 +1,3 @@
-# Object Files
+# Object Files: Sketchfab
 
-In this folder please put the .obj, .mtl, and .png files that are created by the photogrammetry process.
-
-It might be that Github tells you that the file is too big. In that case, modify this readme file to tell me where I might find (and be able to download) your model. In most cases, this will be [sketchfab.com](http://sketchfab.com). Here is a [quickstart guide to sketchfab](https://help.sketchfab.com/hc/en-us/articles/203994889-Quick-Start-Guide).
+Link to the model on Sketchfab in the case that the files do not work: https://sketchfab.com/models/d4c37708d2ca42d588e1fea1fab65e9d
