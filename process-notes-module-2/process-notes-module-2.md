@@ -1,5 +1,7 @@
 ### Introduction:
 
+As an important introductory note, we should clarify that we have failed in our attempt to create a coherent 3D model. For evidence of our efforts, however, we have included three screenshots of the project in various stages, as well as the .mix file of the project which may be opened in Meshmixer to view what we were trying to create, but could not export.
+
 For the second module, we attempted to place two 3D models, one of William and one of a section of the Ishtar Gate, in proximity to each other. We found a 3D model of the Ishtar Gate to download and uploaded both models into Meshmixer. Kurt did most of the manipulation of the models, as he had already had the object files on his computer, but discussion over the best method to manipulate the models continued throughout the process. As the notes below will reveal, the process did not go as smoothly as hoped.
 
 ### Process:
