@@ -2,6 +2,8 @@
 
 “Ancient Near Eastern Cultures.” Ancient Near Eastern Cultures, Pergamon Museum, 2018, www.smb.museum/en/exhibitions/detail/alter-orient.html.
 
+British Museum Website, Archived 2014-01-27 at the Wayback Machine.
+
 Kleiner, Fred S., Christin J. Mamiya, and Helen Gardner. Gardners art through the ages. Harcourt College, 2004.
 
 Latour, Bruno, and A. Lowe, "The Migration of the Aura - or How to Explore the Original Through Its Facsimiles," in Switching Codes: Thinking Through Digital Technology in the Humanities and the Arts, ed. T. Bartscherer and R. Coover (University of Chicago Press, 2002), 275-297.
