@@ -1,5 +1,7 @@
+###Introduction:
 Our goal in this module is to create a game with Twine that incorporates our 3D model (and possible variations of it) to tell a story about the archaeological discovery of the original object the 3D model was based on - or rather, the original object that the object we scanned to make our 3D model was based on, as we only scanned a replica of it. It was decided that Kurt would handle most of the plotting out of the Twine story’s pathways and programming its “aesthetic” dimensions while Margaret would assist in writing parts of the story. The “skeleton” of the story was to be constructed first, using only bullet points for the plot which would later be filled in with more descriptive writing.
 
+###Process Notes:
 -March 9th: Kurt and Margaret discussed the plan for the plot of the game in Twine. Kurt mapped out the beginnings of some of the plot points.
 
 -March 11th: Kurt finished a basic plan for the plot of the game in Twine, but the plan did not yet contain some of the programmable elements such as options that would be contingent on having made certain choices earlier in the game. These were kept track of via bullet points in the nodes of the story.
