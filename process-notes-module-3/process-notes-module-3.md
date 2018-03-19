@@ -16,4 +16,4 @@ Our goal in this module is to create a game with Twine that incorporates our 3D 
 
 -March 17th: Kurt used the “Transform” function in Meshmixer to re-centre the model of William’s legs and uploaded the exported model to Sketchfab. As with previous instances of uploading Meshmixer-altered models to Sketchfab, all textures and colours were lost in the resulting model.
 
--March 18th: Kurt filled in the text to write the story for the Twine game. He also employed the “click-replace” function in some points of the story to make “explorable environments” for the player, added several images and Sketchfab embeds, and changed the stylistic formatting of the text and background.
+-March 18th: Kurt filled in the text to write the story for the Twine game. He also employed the “click-replace” function in some points of the story to make “explorable environments” for the player, added several images and Sketchfab embeds, and changed the stylistic formatting of the text and background. The background gradient came from uiGradients, while the font was imported from Google Fonts.
