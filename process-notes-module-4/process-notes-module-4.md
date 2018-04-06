@@ -1,8 +1,8 @@
-## Introduction:
+### Introduction:
   
   For this module, we attempted to create an augmented reality display of our 3D model from the first module. However, we decided to provide a different perspective on it by allowing the viewer of the model in its augmented reality version to switch between it and a modified version of the model. In this way, the viewer could see the hippo statue in augmented reality both with and without the legs broken off (as it was originally found with three legs broken during the excavation). To operate the display, the viewer would use the HP Reveal app to scan a designated “trigger image”, wait for the 3D model to appear on screen, and then tap the model to toggle between views. We believe this display has interesting potential as it allows a viewer to see two different modes of an object’s “being” without having to damage the object itself or alter it beyond the possibility of returning to its original state. Kurt worked mainly on creating the “Aura” for the augmented reality display through HP Reveal and on the paradata, while Margaret gathered historical information on the statue’s changing state over time and also helped work on some of the paradata.
 
-## Process Notes:
+### Process Notes:
 
 -March 30th: Kurt signed up for an HP Reveal account. He began working on an “Aura” project and uploaded an image of the original William statue as the “trigger image” (downloaded from google images). He then tried to overlay the image with the original 3D model of William in the .tar format - this was created by exporting the model from Meshmixer in a .dae format and archiving it with 7zip. Unfortunately, HP Reveal would not accept the model because it claimed it was “unable to locate the thumbnail”. Kurt, not knowing where the thumbnail was stored for the model, decided to email the professor for assistance.
 
